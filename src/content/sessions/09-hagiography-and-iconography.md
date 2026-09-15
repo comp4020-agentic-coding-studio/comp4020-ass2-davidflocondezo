@@ -12,7 +12,7 @@ spec:
     post or creator go viral and stay legible as having done so
   - Rage-Bait Canonization is submitted by the due date, in the format its
     brief names
-  - you can identify a real creator's icon: the one recognisable image,
+  - you can identify a real creator's icon — the one recognisable image,
     gesture or sound a feed uses to know them instantly
 ---
 
