@@ -5,33 +5,39 @@ import ContentLayout from "astro-theme-university/layouts/ContentLayout.astro";
 import heroImage from "../assets/images/hero-home.avif";
 import { courseMeta } from "../course-config";
 import { sessionLabels, siteConfig } from "../site-config";
-
-// STARTER_CONTENT: replace the hero artwork and its alt text below, then
-// remove this comment.
 ---
 
 <ContentLayout
   title={`${courseMeta.code}: ${courseMeta.title}`}
   description={courseMeta.description}
   heroImage={heroImage}
-  heroImageAlt="A lecture theatre reduced to flat gold and black shapes, rows of seats sweeping past the frame, in a two-ink risograph print"
+  heroImageAlt="A smartphone held up like a devotional object, its screen a stained-glass grid of flat gold and black shapes radiating light, in a two-ink risograph print"
   {...siteConfig}
 >
   <ul class="course-tags" aria-label="Course tags">
     {courseMeta.tags.map((tag) => <li>{tag}</li>)}
   </ul>
 
-  <!-- STARTER_CONTENT: replace the authored page below, then remove this comment. -->
   <h2>What you will do</h2>
   <p>
-    Say what a student spends their time on — the making, reading, arguing or
-    measuring that fills the weeks. Name the artefact they walk out with.
+    Twelve weeks of doctrine, each one training a practice you already
+    half-know how to do and giving it a technique, a history, and a standard
+    for doing it well: curating a feed, engaging in AI slop, spending on
+    impulse, riding a trend before it dies, rage-baiting, going viral,
+    spreading a claim you can't verify, and talking a language your
+    lecturers can't follow. You leave having produced three graded
+    artefacts — a forged scripture, a canonization case, and a portfolio of
+    practicum evidence — and a doctrine of your own devising to set beside
+    the twelve.
   </p>
 
   <h2>Who it is for</h2>
   <p>
-    Say who this is aimed at and what they need to already know. Be specific
-    enough that someone can rule themselves in or out without emailing you.
+    Postgraduates who already spend more time online than they'd admit in a
+    job interview, and who'd rather study that habit seriously than pretend
+    it isn't there. No prior theology is assumed; a working feed, a
+    tolerance for satire, and a willingness to read scripture and a
+    subreddit with the same rigour are the only prerequisites.
   </p>
 
   <h2>Where to go next</h2>
