@@ -1,30 +1,31 @@
 ---
-title: Opening lecture
+title: Prolegomena
 description:
-  The first lecture — what the course is, why it is shaped this way, and what
-  happens in week 1
+  Method for the whole degree — the hermeneutics of the shitpost, and why this
+  course treats wasting time online as its telos.
 week: 1
 date: 2027-02-22
 teachers:
-  - marisol-quaye
+  - perpetua-sconce
 slides: /decks/week-01/
 related:
-  - sessions/01-getting-started
+  - sessions/01-prolegomena
 ---
 
-<!-- STARTER_CONTENT: replace this lecture, then remove this comment. -->
+Every theology needs a method before it needs doctrine, and this one starts
+with a reading practice: the hermeneutics of the shitpost. A post can be read
+for what it claims to be doing — informing, joking, venting — or for what it's
+actually doing: recruiting a reaction, marking group membership, killing time
+on purpose. This course only ever reads for the second thing.
 
-Replace this page. A lecture entry says what was covered and links to the pages
-that own the detail, so the lecture stays short and nothing is explained twice.
-
-The `related:` ref above is a graph edge: it renders on this page and on the
-session's, so declare a connection once, on whichever side is convenient.
-
-The page renders its `slides:` link automatically. Decks are markdown too,
-under `src/decks/`; the path is part of the lecture's API metadata.
+That reframing is the whole degree in miniature. Every week from here trains a
+practice most people already half-do and calls it what it is — a discipline,
+with a technique, a history, and a test for doing it well. Wasting time online
+isn't the thing this course apologises for; it's the outcome every later week
+is building toward, one doctrine at a time.
 
 ## Outline
 
-- what the course is for
-- how the weeks are shaped
-- what to do before the first session
+- the hermeneutics of the shitpost: reading for function, not claim
+- why "wasting time" is this course's telos, not its lapse
+- how weeks 2–12 each cash out one further piece of that method
