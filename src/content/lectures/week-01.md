@@ -24,8 +24,47 @@ with a technique, a history, and a test for doing it well. Wasting time online
 isn't the thing this course apologises for; it's the outcome every later week
 is building toward, one doctrine at a time.
 
+## What is brain rot?
+
+The term itself is barely older than this cohort: dictionaries only started
+defining "brain rot" in the last few years, glossing it as the supposed
+deterioration of a person's mental or intellectual state from consuming too
+much low-quality material online, especially the trivial and unchallenging
+kind that social platforms are best at serving. It was coined as a joke and a
+worry at the same time — a way of naming the feeling of having scrolled for
+an hour and retained nothing. This course takes the joke seriously and drops
+the worry: what looks like decay from outside a feed looks, from inside one,
+like a set of skills — curating, producing, spreading, converting — that
+nobody has bothered to teach properly. Teaching them properly is the degree.
+
+## Why it matters
+
+It would be easier to wave this off as a fringe habit, but it isn't one:
+algorithmic feeds now arrange a plurality of a generation's waking attention,
+and they do it whether or not any institution treats that fact as worth
+studying. Refusing to look closely at brain rot doesn't make the terrain
+smaller — it just cedes the terrain, and the vocabulary, the in-jokes, the
+persuasion techniques and the communities built on top of it, to whoever
+already knows it best. A theology of the thing everyone already does is more
+useful than an etiquette lecture about a thing they're told to stop doing.
+
+## Where it sits in the culture
+
+Ten years ago this vocabulary stayed inside the subculture that made it.
+Today it turns up in dictionaries, marketing decks, and politicians'
+speeches, because institutions that want to be legible online have to speak
+the feed's register whether they respect it or not. That crossover is the
+clearest sign this is worth a degree and not a punchline: any practice that
+develops its own scripture, its own liturgy, its own saints and its own
+missionaries — which is exactly the shape weeks 2 through 12 will show it
+has — has outgrown "guilty pleasure" and become a culture in its own right,
+one this course proposes to read the way any other culture gets read.
+
 ## Outline
 
 - the hermeneutics of the shitpost: reading for function, not claim
+- what "brain rot" names, and why this course drops the anxiety but keeps the diagnosis
+- why the practice is worth a theology rather than a warning label
+- how the vocabulary crossed from subculture into the mainstream
 - why "wasting time" is this course's telos, not its lapse
 - how weeks 2–12 each cash out one further piece of that method
