@@ -8,6 +8,7 @@ date: 2027-03-01
 teachers:
   - perpetua-sconce
   - desmond-yarrow
+slides: /decks/week-02/
 related:
   - sessions/02-cosmogony
 ---

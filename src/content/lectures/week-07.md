@@ -8,6 +8,7 @@ date: 2027-04-05
 teachers:
   - perpetua-sconce
   - desmond-yarrow
+slides: /decks/week-07/
 related:
   - sessions/07-liturgy-and-the-trend-calendar
 ---

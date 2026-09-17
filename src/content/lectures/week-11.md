@@ -8,6 +8,7 @@ date: 2027-05-03
 teachers:
   - perpetua-sconce
   - desmond-yarrow
+slides: /decks/week-11/
 related:
   - sessions/11-glossolalia
 ---

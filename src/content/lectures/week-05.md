@@ -8,6 +8,7 @@ date: 2027-03-22
 teachers:
   - perpetua-sconce
   - desmond-yarrow
+slides: /decks/week-05/
 related:
   - sessions/05-indulgences
 ---
