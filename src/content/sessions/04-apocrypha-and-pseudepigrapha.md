@@ -2,7 +2,7 @@
 title: Apocrypha & Pseudepigrapha
 description:
   AI slop as forged scripture — content that borrows canon's form without its
-  provenance. Assignment 1 is due this week.
+  provenance. Apocryphal Composition is due this week.
 week: 4
 date: 2027-03-15
 teachers:

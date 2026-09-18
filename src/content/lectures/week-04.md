@@ -2,7 +2,7 @@
 title: Apocrypha & Pseudepigrapha
 description:
   AI slop as forged scripture — sincere-sounding, well-formed, and traceable
-  to nothing. Assignment 1 is due this week.
+  to nothing. Apocryphal Composition is due this week.
 week: 4
 date: 2027-03-15
 teachers:

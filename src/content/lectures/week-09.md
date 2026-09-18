@@ -2,7 +2,7 @@
 title: Hagiography & Iconography
 description:
   Sainthood granted after the fact by an audience's veneration, and the icon
-  that makes it recognisable at a glance. Assignment 2 is due this week.
+  that makes it recognisable at a glance. Rage-Bait Canonization is due this week.
 week: 9
 date: 2027-04-19
 teachers:

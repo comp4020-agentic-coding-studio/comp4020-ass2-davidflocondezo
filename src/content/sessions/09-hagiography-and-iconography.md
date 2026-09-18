@@ -2,7 +2,7 @@
 title: Hagiography & Iconography
 description:
   Sainthood and virality — canonization by an audience, and the icon that lets
-  a saint be recognised at a glance. Assignment 2 is due this week.
+  a saint be recognised at a glance. Rage-Bait Canonization is due this week.
 week: 9
 date: 2027-04-19
 teachers:
