@@ -19,8 +19,8 @@ spec:
     brief names
 ---
 
-Bring two drafts, even rough ones — the tutorial is built around workshopping
-them against each other.
+Bring a laptop or phone with access to an AI tool — both drafts get produced
+here, live, before they're workshopped against each other.
 
 ## In the tutorial
 

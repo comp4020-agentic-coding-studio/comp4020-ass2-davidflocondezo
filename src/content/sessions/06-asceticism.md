@@ -14,8 +14,8 @@ spec:
   - you have logged a doomscrolling session that deliberately continues at
     least twenty minutes past that signal, with a timestamped note of what you
     noticed at each five-minute mark
-  - you have a control log — a session you stopped at the first signal — to
-    compare it against
+  - you have a control log — the first phase of the same sitting, stopped at
+    the first signal — to compare it against
   - you can say what the discipline gets you that stopping earlier wouldn't
 ---
 
@@ -30,8 +30,9 @@ remembered:
 
 1. Scroll normally until you hit your usual stopping signal — boredom, eye
    strain, restlessness — and log that session as the control.
-2. On a separate occasion, hit the same signal and keep going for at least
-   twenty more minutes, noting what you notice at each five-minute mark.
+2. Immediately after, without putting the phone down, keep going past that
+   same signal for at least twenty more minutes, noting what you notice at
+   each five-minute mark.
 3. Compare the two logs side by side.
 
 Brother Yarrow supervises the practicum; Dr Sconce supplies the doctrine that

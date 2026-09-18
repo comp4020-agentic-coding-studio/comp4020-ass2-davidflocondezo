@@ -18,8 +18,8 @@ spec:
     frame here, rather than apologetics (proof)
 ---
 
-Bring a rage-bait post you've seen work on you, specifically, plus a draft of
-your own.
+Bring a rage-bait post you've seen work on you, specifically — recalled live,
+nothing prepared in advance.
 
 ## In the tutorial
 

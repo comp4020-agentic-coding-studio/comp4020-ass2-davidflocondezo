@@ -20,7 +20,7 @@ spec:
     and an algorithm creating it
 ---
 
-Bring your own For You Page, mid-reshape.
+Bring your own phone, logged into whatever feed you actually use.
 
 ## In the tutorial
 
@@ -36,10 +36,11 @@ more":
    account in it.
 3. After each move, screenshot the feed again and note what actually changed
    — not just at the end, but move by move.
-4. Screenshot the feed once more the next morning. This is the after.
+4. Browse normally for five more minutes, then screenshot the feed once more.
+   This is the after.
 
 ## Afterwards
 
 You leave with a four-shot record — before, three intermediate states, after —
 of a For You Page that's visibly, deliberately different from the one you
-brought in, and the vocabulary to say which move did the work.
+started with, and the vocabulary to say which move did the work.

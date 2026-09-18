@@ -17,8 +17,8 @@ spec:
   - you can explain why false prophecy outpaces true prophecy in this model
 ---
 
-Bring a piece of misinformation you've seen spread — ideally one you believed,
-briefly — and be ready to dig.
+Bring a phone or laptop and be ready to dig — a piece of misinformation you've
+seen spread works, or find one live in your feed if nothing comes to mind.
 
 ## In the tutorial
 

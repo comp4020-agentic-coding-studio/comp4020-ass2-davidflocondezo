@@ -15,7 +15,8 @@ spec:
   - you can distinguish a canonical post from an apocryphal one, ahead of week 4
 ---
 
-Bring three posts you'd defend as important, ranked.
+Bring a phone with access to your feed — the candidates get found live, in
+the room.
 
 ## In the tutorial
 
@@ -26,7 +27,8 @@ any scripture gets treated as scripture: a community kept referring back to
 them. The practicum tests that against real candidates rather than a single
 easy pick:
 
-1. Bring three posts you'd each independently defend as important.
+1. Open your feed, right now, and find three candidate posts on the spot —
+   ones you'd each independently defend as important.
 2. Annotate each against the course's canonicity criteria — cited, survived
    contact with counter-argument, referred back to rather than just seen.
 3. Rank the three, and write the case for why the top one clears a bar the

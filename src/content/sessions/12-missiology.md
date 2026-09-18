@@ -8,9 +8,9 @@ date: 2027-05-10
 teachers:
   - perpetua-sconce
 spec:
-  - you have made one real recruitment attempt this semester — a friend,
-    sibling, or parent introduced to a feed, a creator, or a piece of slang —
-    and can produce evidence of it landing or failing
+  - you have made a real recruitment attempt during the tutorial itself —
+    pitching a partner on a feed, a creator, or a piece of slang — and logged
+    whether it landed
   - you have presented your proposed doctrine to another student and logged
     their strongest objection before submitting
   - you can name one outcome from an earlier week your portfolio evidences,
@@ -19,21 +19,24 @@ spec:
     brief names
 ---
 
-Bring the portfolio, finished, one doctrine of your own devising, and evidence
-of at least one convert.
+Bring the portfolio, finished, and one doctrine of your own devising — the
+recruitment attempt and the objection both happen here.
 
 ## In the tutorial
 
 Every doctrine this semester trained a private practice; missiology is the one
 about turning outward — recruiting a friend, a sibling, a parent into your
 feed, your creators, your slang. The tutorial tests the outward turn directly,
-not just the intention to make it:
+on the spot, rather than taking your word for an attempt made somewhere else:
 
-1. Bring evidence of a real recruitment attempt from this semester — the
-   message you sent, and what happened after.
-2. Present your proposed doctrine to another student, and log the strongest
+1. Pair up. Spend five minutes live-pitching your partner on one thing from
+   your own feed — a creator, a genre, a piece of slang — trying to actually
+   convert them.
+2. Log whether it landed, right there in the room: did they follow, engage, or
+   repeat the slang back, or not.
+3. Present your proposed doctrine to the same partner, and log the strongest
    objection they raise.
-3. Revise the doctrine, or defend it against that objection, before it goes
+4. Revise the doctrine, or defend it against that objection, before it goes
    into the portfolio.
 
 The tutorial closes the course the way it opened: not by testing whether you
@@ -42,6 +45,6 @@ convert.
 
 ## Afterwards
 
-You leave having submitted the Applied Ministry Portfolio, with a logged
-convert attempt and a doctrine that has survived one real objection, and the
-course having tested every outcome it set out to.
+You leave having submitted the Applied Ministry Portfolio, with a recruitment
+attempt made and logged live in the room, and a doctrine that has survived one
+real objection.

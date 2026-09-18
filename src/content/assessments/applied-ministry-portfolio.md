@@ -36,14 +36,15 @@ missiology reflection.
 One section per doctrine, each with a short piece of evidence and a paragraph
 connecting it back to that week's tutorial:
 
-- **Cosmogony** — your before/during/after record of the three-move retraining
-  drill, and which move actually shifted the feed
-- **Indulgences** — your week-long Shop-tab log, the checkout patterns it
-  caught, and the dollar gap between what you were shown and what you spent
+- **Cosmogony** — your screenshot record of the live three-move retraining
+  drill (before, each move, after), and which move actually shifted the feed
+- **Indulgences** — your live Shop-tab audit, the checkout patterns it
+  caught, and the dollar gap between what you were shown and what you'd spend
 - **Asceticism** — the control and discipline logs from week 6's scrolling
-  practicum, compared
-- **Liturgy & the Trend Calendar** — the three-point engagement record for a
-  trend you rode, showing the decay curve
+  practicum, run back-to-back in the same sitting, compared
+- **Liturgy & the Trend Calendar** — the decay curve you built live in week
+  7, comparing engagement across posts already at different points in the
+  trend's lifecycle
 - **Prophecy & False Prophets** — the traced lineage from a spread claim back
   through its mutations to the first prophecy, plus the true prophecy you
   compared it against
