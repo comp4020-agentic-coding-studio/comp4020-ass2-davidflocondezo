@@ -7,6 +7,7 @@ week: 10
 date: 2027-04-26
 teachers:
   - perpetua-sconce
+  - odalys-crane
 spec:
   - you can distinguish a prophecy from a false prophecy using this course's
     criteria, not a simple true/false test
@@ -25,7 +26,8 @@ seen spread works, or find one live in your feed if nothing comes to mind.
 Every prophecy is a claim about a coming crisis or reveal, and what makes false
 prophecy spread faster isn't that it's more believable — it's that it's built
 for higher stakes and less patience than the true version can usually offer.
-The practicum traces the whole lineage, not just the endpoint:
+Crane runs the practicum, tracing the whole lineage rather than just the
+endpoint:
 
 1. Start from the version of the claim you first saw, and work backwards
    through at least two earlier, different-sounding versions to the original

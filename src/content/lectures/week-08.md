@@ -7,6 +7,7 @@ week: 8
 date: 2027-04-12
 teachers:
   - perpetua-sconce
+  - barnaby-skein
 slides: /decks/week-08/
 related:
   - sessions/08-homiletics

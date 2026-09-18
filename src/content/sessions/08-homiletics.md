@@ -7,6 +7,7 @@ week: 8
 date: 2027-04-12
 teachers:
   - perpetua-sconce
+  - barnaby-skein
 spec:
   - you can name the structural parts of a rage-bait post (the hook, the
     provocation, the bait-and-switch)
@@ -25,8 +26,8 @@ nothing prepared in advance.
 
 A sermon and a rage-bait post share a structure: an opening that claims your
 attention, a provocation built to produce a felt reaction before a reasoned
-one, and a close that reveals the whole thing was never about proof. The
-tutorial drafts against that structure twice, not once, ahead of week 9's
+one, and a close that reveals the whole thing was never about proof. Skein
+runs the workshop against that structure twice, not once, ahead of week 9's
 assessment:
 
 1. Draft a rage-bait post using the three-part structure.

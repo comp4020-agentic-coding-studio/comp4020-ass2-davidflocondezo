@@ -7,6 +7,7 @@ week: 4
 date: 2027-03-15
 teachers:
   - perpetua-sconce
+  - odalys-crane
 slides: /decks/week-04/
 related:
   - sessions/04-apocrypha-and-pseudepigrapha

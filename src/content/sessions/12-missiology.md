@@ -7,6 +7,7 @@ week: 12
 date: 2027-05-10
 teachers:
   - perpetua-sconce
+  - barnaby-skein
 spec:
   - you have made a real recruitment attempt during the tutorial itself —
     pitching a partner on a feed, a creator, or a piece of slang — and logged
@@ -26,8 +27,9 @@ recruitment attempt and the objection both happen here.
 
 Every doctrine this semester trained a private practice; missiology is the one
 about turning outward — recruiting a friend, a sibling, a parent into your
-feed, your creators, your slang. The tutorial tests the outward turn directly,
-on the spot, rather than taking your word for an attempt made somewhere else:
+feed, your creators, your slang. Skein runs the tutorial as a test of the
+outward turn directly, on the spot, rather than taking your word for an
+attempt made somewhere else:
 
 1. Pair up. Spend five minutes live-pitching your partner on one thing from
    your own feed — a creator, a genre, a piece of slang — trying to actually

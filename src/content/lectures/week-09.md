@@ -7,6 +7,7 @@ week: 9
 date: 2027-04-19
 teachers:
   - perpetua-sconce
+  - barnaby-skein
 slides: /decks/week-09/
 related:
   - sessions/09-hagiography-and-iconography

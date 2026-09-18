@@ -7,6 +7,7 @@ week: 9
 date: 2027-04-19
 teachers:
   - perpetua-sconce
+  - barnaby-skein
 spec:
   - you can name this course's criteria for canonization — what makes a
     post or creator go viral and stay legible as having done so
@@ -27,9 +28,10 @@ on someone else's real history, then applied to yours.
 Sainthood is granted after the fact, by a community's veneration, not declared
 in advance — virality works the same way. Iconography is what makes the
 veneration repeatable: a saint gets a symbol, a creator gets a signature bit,
-and either one lets recognition happen in under a second. The case for
-canonization gets modelled on evidence that already has a history, so it
-doesn't depend on your own post having had time to circulate:
+and either one lets recognition happen in under a second. Skein builds the
+case for canonization the way he builds any argument — on evidence that
+already has a history, so it doesn't depend on your own post having had time
+to circulate:
 
 1. Track a real creator's icon across at least two platforms or contexts,
    live, and name what stayed recognisable across the gap.

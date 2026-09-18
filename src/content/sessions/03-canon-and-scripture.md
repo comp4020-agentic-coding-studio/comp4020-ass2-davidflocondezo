@@ -7,6 +7,7 @@ week: 3
 date: 2027-03-08
 teachers:
   - perpetua-sconce
+  - odalys-crane
 spec:
   - you can name the criteria this course uses to call a post canonical rather
     than noise
@@ -24,8 +25,8 @@ Canon-formation isn't about truth; it's about survival — what gets screenshott
 cross-posted, and cited weeks later versus what scrolls past and is gone.
 Reddit threads and X posts get treated as scripture here for the same reason
 any scripture gets treated as scripture: a community kept referring back to
-them. The practicum tests that against real candidates rather than a single
-easy pick:
+them. Crane runs the practicum as a provenance drill, testing that against
+real candidates rather than a single easy pick:
 
 1. Open your feed, right now, and find three candidate posts on the spot —
    ones you'd each independently defend as important.

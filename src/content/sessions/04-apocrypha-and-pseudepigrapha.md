@@ -7,6 +7,7 @@ week: 4
 date: 2027-03-15
 teachers:
   - perpetua-sconce
+  - odalys-crane
 spec:
   - you can distinguish canon (week 3) from apocrypha using this course's
     criteria, not just a vibe
@@ -26,8 +27,9 @@ here, live, before they're workshopped against each other.
 
 Apocryphal texts borrow scripture's confidence and moral certainty without its
 provenance, and that's exactly what AI slop does to a feed: sincere-sounding,
-well-formed, and traceable to nothing. Two drafts, not one, because the second
-one is where the diagnosis gets sharper:
+well-formed, and traceable to nothing. Crane runs the practicum the same way
+she runs week 3's — as a provenance drill. Two drafts, not one, because the
+second one is where the diagnosis gets sharper:
 
 1. Produce two pieces of AI slop, aiming for a different canonical marker in
    each — one borrowing scripture's confidence, the other its moral certainty.

@@ -7,6 +7,7 @@ week: 12
 date: 2027-05-10
 teachers:
   - perpetua-sconce
+  - barnaby-skein
 slides: /decks/week-12/
 related:
   - sessions/12-missiology
