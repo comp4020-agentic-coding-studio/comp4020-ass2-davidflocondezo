@@ -54,11 +54,10 @@ Ten years ago this vocabulary stayed inside the subculture that made it.
 Today it turns up in dictionaries, marketing decks, and politicians'
 speeches, because institutions that want to be legible online have to speak
 the feed's register whether they respect it or not. That crossover is the
-clearest sign this is worth a degree and not a punchline: any practice that
-develops its own scripture, its own liturgy, its own saints and its own
-missionaries — which is exactly the shape weeks 2 through 12 will show it
-has — has outgrown "guilty pleasure" and become a culture in its own right,
-one this course proposes to read the way any other culture gets read.
+clearest sign this is worth a degree: any practice that develops its own
+scripture, liturgy, saints and missionaries — which weeks 2 through 12 will
+each show it has — has outgrown "guilty pleasure" and become a culture
+worth reading properly.
 
 ## Outline
 
