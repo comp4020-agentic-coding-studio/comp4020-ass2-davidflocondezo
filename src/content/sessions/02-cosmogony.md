@@ -26,9 +26,8 @@ Bring your own phone, logged into whatever feed you actually use.
 
 Cosmogony asks what set the feed in motion, and answers it the way any creation
 myth does — with an unmoved mover. Here it's the ranking system: not neutral
-plumbing, but the thing every later doctrine assumes was there first. Brother
-Yarrow runs the practicum as a controlled drill, not a vague "use your feed
-more":
+plumbing, but the thing every later doctrine assumes was there first. Yarrow
+runs the practicum as a controlled drill, not a vague "use your feed more":
 
 1. Screenshot your feed as it stands. This is the before.
 2. Pick one genre you want the algorithm to believe is you. Rewatch three

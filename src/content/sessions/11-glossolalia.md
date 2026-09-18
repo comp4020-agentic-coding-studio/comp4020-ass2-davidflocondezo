@@ -23,7 +23,7 @@ Bring three sentences you say every day, in plain English.
 
 Speaking in tongues works as a marker of belonging precisely because it's
 unintelligible to anyone outside the community; Gen Alpha slang does the same
-job. Brother Yarrow runs the translation drills both ways, three times over,
+job. Yarrow runs the translation drills both ways, three times over,
 so the failures are the data:
 
 1. Translate three plain-English sentences into current slang.

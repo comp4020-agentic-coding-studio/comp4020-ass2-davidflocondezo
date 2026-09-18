@@ -1,5 +1,5 @@
 ---
-title: Brother Desmond Yarrow
+title: Desmond Yarrow
 description:
   Tutor in Applied Virality, running the practicum weeks where doctrine turns
   into an actual posting habit.

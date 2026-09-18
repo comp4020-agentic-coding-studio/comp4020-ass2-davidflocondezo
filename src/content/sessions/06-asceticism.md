@@ -35,7 +35,7 @@ remembered:
    each five-minute mark.
 3. Compare the two logs side by side.
 
-Brother Yarrow supervises the practicum; Dr Sconce supplies the doctrine that
+Yarrow supervises the practicum; Dr Sconce supplies the doctrine that
 makes it a discipline and not just a bad night.
 
 ## Afterwards
