@@ -18,12 +18,12 @@ spec:
 
 Bring the rage-bait post you drafted in week 8.
 
-## In the session
+## In the tutorial
 
 Sainthood is granted after the fact, by a community's veneration, not declared
 in advance — virality works the same way. Iconography is what makes the
 veneration repeatable: a saint gets a symbol, a creator gets a signature bit,
-and either one lets recognition happen in under a second. The session builds
+and either one lets recognition happen in under a second. The tutorial builds
 the case for a post's canonization directly out of week 8's draft.
 
 ## Afterwards

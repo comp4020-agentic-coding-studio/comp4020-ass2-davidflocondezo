@@ -16,7 +16,7 @@ spec:
 
 Bring one post you'd defend as important.
 
-## In the session
+## In the tutorial
 
 Canon-formation isn't about truth; it's about survival — what gets screenshotted,
 cross-posted, and cited weeks later versus what scrolls past and is gone.

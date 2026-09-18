@@ -18,7 +18,7 @@ spec:
 
 Bring a fully charged phone and no plans for the next hour.
 
-## In the session
+## In the tutorial
 
 Every ascetic discipline works by pushing past an early stopping point — fasting
 past hunger, vigil past sleep. This week does the same to scrolling: past
@@ -28,5 +28,5 @@ a discipline and not just a bad night.
 
 ## Afterwards
 
-You leave with a log of the session and a description, in your own words, of
+You leave with a log of the tutorial and a description, in your own words, of
 what changed once you pushed past the first urge to stop.

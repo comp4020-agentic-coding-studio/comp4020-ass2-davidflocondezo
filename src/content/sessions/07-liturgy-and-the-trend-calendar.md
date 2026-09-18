@@ -15,14 +15,14 @@ spec:
     variable here
 ---
 
-Bring whatever's trending the morning of the session — it may not still be
+Bring whatever's trending the morning of the tutorial — it may not still be
 trending by the afternoon.
 
-## In the session
+## In the tutorial
 
 Liturgical calendars recur on a fixed rhythm that gives devotion its shape; the
 trend calendar recurs on no fixed rhythm at all, which is the harder discipline
-to keep. The session is timed deliberately against whatever's live that week,
+to keep. The tutorial is timed deliberately against whatever's live that week,
 so the lesson can't be learned a week late.
 
 ## Afterwards

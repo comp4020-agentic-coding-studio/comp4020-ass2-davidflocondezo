@@ -18,11 +18,11 @@ spec:
 
 Bring the portfolio, finished, and one doctrine of your own devising.
 
-## In the session
+## In the tutorial
 
 Every doctrine this semester trained a private practice; missiology is the one
 about turning outward — recruiting a friend, a sibling, a parent into your
-feed, your creators, your slang. The session closes the course the way it
+feed, your creators, your slang. The tutorial closes the course the way it
 opened: not by testing whether you believe the doctrine, but by testing
 whether you can make someone else a convert.
 

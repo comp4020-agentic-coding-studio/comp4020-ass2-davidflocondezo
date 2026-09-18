@@ -15,13 +15,13 @@ spec:
     brief names
 ---
 
-Bring a draft, even a rough one — the session is built around workshopping it.
+Bring a draft, even a rough one — the tutorial is built around workshopping it.
 
-## In the session
+## In the tutorial
 
 Apocryphal texts borrow scripture's confidence and moral certainty without its
 provenance, and that's exactly what AI slop does to a feed: sincere-sounding,
-well-formed, and traceable to nothing. The session workshops each student's
+well-formed, and traceable to nothing. The tutorial workshops each student's
 draft against those criteria before the brief's deadline.
 
 ## Afterwards

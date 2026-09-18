@@ -15,9 +15,9 @@ spec:
 ---
 
 Bring nothing but a phone you already use. This course's lab is your own feed,
-and the first session is the only orientation it gets.
+and the first tutorial is the only orientation it gets.
 
-## In the session
+## In the tutorial
 
 Dr Sconce lays out the hermeneutics of the shitpost — reading a post for the
 work it's actually doing, rather than the work it claims to be doing — and the

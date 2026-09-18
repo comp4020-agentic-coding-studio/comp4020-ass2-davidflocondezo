@@ -19,7 +19,7 @@ spec:
 Bring the app whose Shop tab you find hardest to close without buying
 something.
 
-## In the session
+## In the tutorial
 
 An indulgence remits guilt with a payment rather than a change in behaviour;
 the Shop tab does the same to FOMO. Brother Yarrow walks through the checkout

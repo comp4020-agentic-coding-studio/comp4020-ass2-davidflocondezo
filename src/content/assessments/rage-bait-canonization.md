@@ -35,7 +35,7 @@ practicum through to its canonization case.
 ## Part A — the post
 
 Refine the rage-bait post from week 8 into a finished draft, following the
-hook / provocation / bait-and-switch structure covered in that week's session.
+hook / provocation / bait-and-switch structure covered in that week's tutorial.
 
 ## Part B — the canonization argument
 

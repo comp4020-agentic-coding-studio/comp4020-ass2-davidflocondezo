@@ -19,7 +19,7 @@ spec:
 
 Bring your own For You Page, mid-reshape.
 
-## In the session
+## In the tutorial
 
 Cosmogony asks what set the feed in motion, and answers it the way any creation
 myth does — with an unmoved mover. Here it's the ranking system: not neutral

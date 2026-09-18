@@ -34,7 +34,7 @@ missiology reflection.
 ## Part A — practicum evidence
 
 One section per doctrine, each with a short piece of evidence and a paragraph
-connecting it back to that week's session:
+connecting it back to that week's tutorial:
 
 - **Cosmogony** — a description of a feed you deliberately curated, and what
   you did to shape the algorithm's read of you

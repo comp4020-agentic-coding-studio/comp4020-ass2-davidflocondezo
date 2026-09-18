@@ -18,12 +18,12 @@ spec:
 Bring a piece of misinformation you've seen spread — ideally one you believed,
 briefly.
 
-## In the session
+## In the tutorial
 
 Every prophecy is a claim about a coming crisis or reveal, and what makes false
 prophecy spread faster isn't that it's more believable — it's that it's built
 for higher stakes and less patience than the true version can usually offer.
-The session traces one claim back to its source and marks the point where
+The tutorial traces one claim back to its source and marks the point where
 urgency overtook evidence.
 
 ## Afterwards

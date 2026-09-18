@@ -18,7 +18,7 @@ spec:
 
 Bring a sentence you say every day, in plain English.
 
-## In the session
+## In the tutorial
 
 Speaking in tongues works as a marker of belonging precisely because it's
 unintelligible to anyone outside the community; Gen Alpha slang does the same

@@ -17,12 +17,12 @@ spec:
 
 Bring a rage-bait post you've seen work on you, specifically.
 
-## In the session
+## In the tutorial
 
 A sermon and a rage-bait post share a structure: an opening that claims your
 attention, a provocation built to produce a felt reaction before a reasoned
 one, and a close that reveals the whole thing was never about proof. The
-session drafts against that structure directly, ahead of week 9's assessment.
+tutorial drafts against that structure directly, ahead of week 9's assessment.
 
 ## Afterwards
 
