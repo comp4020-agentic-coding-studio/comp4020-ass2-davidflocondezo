@@ -11,8 +11,11 @@ teachers:
 spec:
   - you can name the physical signal your own body gives once you've scrolled
     past comfort
-  - you have logged a doomscrolling session that deliberately continues past
-    that signal
+  - you have logged a doomscrolling session that deliberately continues at
+    least twenty minutes past that signal, with a timestamped note of what you
+    noticed at each five-minute mark
+  - you have a control log — a session you stopped at the first signal — to
+    compare it against
   - you can say what the discipline gets you that stopping earlier wouldn't
 ---
 
@@ -21,12 +24,20 @@ Bring a fully charged phone and no plans for the next hour.
 ## In the tutorial
 
 Every ascetic discipline works by pushing past an early stopping point — fasting
-past hunger, vigil past sleep. This week does the same to scrolling: past
-boredom, past eye strain, into whatever's on the other side of it. Brother
-Yarrow supervises the practicum; Dr Sconce supplies the doctrine that makes it
-a discipline and not just a bad night.
+past hunger, vigil past sleep. This week does the same to scrolling, and asks
+for a control alongside the discipline so the comparison is real, not
+remembered:
+
+1. Scroll normally until you hit your usual stopping signal — boredom, eye
+   strain, restlessness — and log that session as the control.
+2. On a separate occasion, hit the same signal and keep going for at least
+   twenty more minutes, noting what you notice at each five-minute mark.
+3. Compare the two logs side by side.
+
+Brother Yarrow supervises the practicum; Dr Sconce supplies the doctrine that
+makes it a discipline and not just a bad night.
 
 ## Afterwards
 
-You leave with a log of the tutorial and a description, in your own words, of
-what changed once you pushed past the first urge to stop.
+You leave with two logs — a control and a discipline — and a description, in
+your own words, of what changed once you pushed past the first urge to stop.

@@ -10,11 +10,12 @@ teachers:
 spec:
   - you can name the criteria this course uses to call a post canonical rather
     than noise
-  - you have found and annotated one Reddit or X post as a primary source
+  - you have found and annotated three candidate posts, ranked them against
+    those criteria, and can defend why the top one outranks the other two
   - you can distinguish a canonical post from an apocryphal one, ahead of week 4
 ---
 
-Bring one post you'd defend as important.
+Bring three posts you'd defend as important, ranked.
 
 ## In the tutorial
 
@@ -22,9 +23,16 @@ Canon-formation isn't about truth; it's about survival — what gets screenshott
 cross-posted, and cited weeks later versus what scrolls past and is gone.
 Reddit threads and X posts get treated as scripture here for the same reason
 any scripture gets treated as scripture: a community kept referring back to
-them.
+them. The practicum tests that against real candidates rather than a single
+easy pick:
+
+1. Bring three posts you'd each independently defend as important.
+2. Annotate each against the course's canonicity criteria — cited, survived
+   contact with counter-argument, referred back to rather than just seen.
+3. Rank the three, and write the case for why the top one clears a bar the
+   other two don't quite reach.
 
 ## Afterwards
 
-You leave with an annotated primary source and the criteria that made it count
-— criteria week 4 is about to test against something that fails them.
+You leave with three annotated candidates, a defended ranking, and the
+criteria week 4 is about to test against something built to fail them.

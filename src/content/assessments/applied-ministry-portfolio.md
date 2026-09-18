@@ -36,17 +36,19 @@ missiology reflection.
 One section per doctrine, each with a short piece of evidence and a paragraph
 connecting it back to that week's tutorial:
 
-- **Cosmogony** — a description of a feed you deliberately curated, and what
-  you did to shape the algorithm's read of you
-- **Indulgences** — a record of an impulse purchase made or resisted, and the
-  relief (or its absence) at the moment of decision
-- **Asceticism** — the log from week 6's scrolling practicum
-- **Liturgy & the Trend Calendar** — a trend you rode, with the timing you
-  judged it by
-- **Prophecy & False Prophets** — a case study of a real or invented
-  misinformation claim, read as prophecy
-- **Glossolalia** — a short passage of slang translated to plain English and
-  back, with a note on what survived the round trip
+- **Cosmogony** — your before/during/after record of the three-move retraining
+  drill, and which move actually shifted the feed
+- **Indulgences** — your week-long Shop-tab log, the checkout patterns it
+  caught, and the dollar gap between what you were shown and what you spent
+- **Asceticism** — the control and discipline logs from week 6's scrolling
+  practicum, compared
+- **Liturgy & the Trend Calendar** — the three-point engagement record for a
+  trend you rode, showing the decay curve
+- **Prophecy & False Prophets** — the traced lineage from a spread claim back
+  through its mutations to the first prophecy, plus the true prophecy you
+  compared it against
+- **Glossolalia** — the transcript of a real slang conversation, plus your
+  three round-trip translations and where meaning slipped in each
 
 ## Part B — the Missiology reflection
 
