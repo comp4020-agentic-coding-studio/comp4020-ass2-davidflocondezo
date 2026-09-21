@@ -5,7 +5,7 @@ description:
   exactly which parts are forged.
 week: 4
 due: 2027-03-15T12:00:00+10:00
-weight: 25
+weight: 21
 marking:
   mode: weighted
   criteria:

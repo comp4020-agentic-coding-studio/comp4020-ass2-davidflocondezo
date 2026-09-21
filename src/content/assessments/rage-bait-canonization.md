@@ -5,7 +5,7 @@ description:
   iconographic staying power.
 week: 9
 due: 2027-04-19T12:00:00+10:00
-weight: 35
+weight: 31
 marking:
   mode: weighted
   criteria:
