@@ -25,13 +25,10 @@ on someone else's real history, then applied to yours.
 
 ## In the tutorial
 
-Sainthood is granted after the fact, by a community's veneration, not declared
-in advance — virality works the same way. Iconography is what makes the
-veneration repeatable: a saint gets a symbol, a creator gets a signature bit,
-and either one lets recognition happen in under a second. Skein builds the
-case for canonization the way he builds any argument — on evidence that
-already has a history, so it doesn't depend on your own post having had time
-to circulate:
+This tutorial builds the case for canonization on evidence that already
+exists, rather than waiting to see if your own post takes off. Skein has you
+study a real creator's icon and a real viral moment first, then apply the
+same test to your own week-8 draft:
 
 1. Track a real creator's icon across at least two platforms or contexts,
    live, and name what stayed recognisable across the gap.

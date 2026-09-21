@@ -25,11 +25,10 @@ here, live, before they're workshopped against each other.
 
 ## In the tutorial
 
-Apocryphal texts borrow scripture's confidence and moral certainty without its
-provenance, and that's exactly what AI slop does to a feed: sincere-sounding,
-well-formed, and traceable to nothing. Crane runs the practicum the same way
-she runs week 3's — as a provenance drill. Two drafts, not one, because the
-second one is where the diagnosis gets sharper:
+This tutorial has you produce two pieces of AI-generated text and then work
+out exactly what gives each one away — the same provenance check from week 3,
+run in reverse. Crane has you do it twice, not once, because the second
+attempt is where you actually get better at spotting the tell:
 
 1. Produce two pieces of AI slop, aiming for a different canonical marker in
    each — one borrowing scripture's confidence, the other its moral certainty.

@@ -23,11 +23,10 @@ something.
 
 ## In the tutorial
 
-An indulgence remits guilt with a payment rather than a change in behaviour;
-the Shop tab does the same to FOMO. Yarrow walks through the checkout
-patterns — countdowns, "only 2 left," bundling — doing the theological work of
-absolution in interface form. The audit happens live, in the room, so the
-pattern gets caught in the act rather than recalled from memory:
+This tutorial is a live audit of the dark patterns — countdowns, "only 2
+left," bundling — that a real Shop tab uses to convert FOMO into a purchase.
+Yarrow has you run the audit in the room, on an app you actually use, so each
+pattern gets caught as it happens rather than recalled afterward from memory:
 
 1. Open the Shop tab of an app you actually use, and browse it for fifteen
    minutes as if you were about to buy something.

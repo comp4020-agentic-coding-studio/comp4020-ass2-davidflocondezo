@@ -24,10 +24,11 @@ Bring your own phone, logged into whatever feed you actually use.
 
 ## In the tutorial
 
-Cosmogony asks what set the feed in motion, and answers it the way any creation
-myth does — with an unmoved mover. Here it's the ranking system: not neutral
-plumbing, but the thing every later doctrine assumes was there first. Yarrow
-runs the practicum as a controlled drill, not a vague "use your feed more":
+This tutorial is a hands-on experiment in retraining your own feed's ranking
+algorithm — the system that decides what you see, using signals like
+rewatches, lingers, and follows. Yarrow runs it as a controlled drill: you'll
+deliberately feed the algorithm one set of signals, then check, step by step,
+whether the feed actually changes in response:
 
 1. Screenshot your feed as it stands. This is the before.
 2. Pick one genre you want the algorithm to believe is you. Rewatch three

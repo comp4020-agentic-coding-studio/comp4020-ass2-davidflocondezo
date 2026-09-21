@@ -24,11 +24,10 @@ bring but a phone.
 
 ## In the tutorial
 
-Liturgical calendars recur on a fixed rhythm that gives devotion its shape;
-the trend calendar recurs on no fixed rhythm at all, which is the harder
-discipline to keep. The tutorial is timed deliberately against whatever's
-live that week, and the decay curve gets built from evidence that already
-exists rather than waited out over days:
+This tutorial has you post into a live trend and then measure, with real
+numbers, why timing beats quality. It's timed against whatever's actually
+trending that week, and the comparison is built entirely from posts that
+already exist rather than something you'd have to wait days to collect:
 
 1. Find the trend that's live right now, and post into it — timestamped.
 2. Search the same trend or format and find three other posts already using

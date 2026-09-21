@@ -23,10 +23,10 @@ Bring a fully charged phone and no plans for the next hour.
 
 ## In the tutorial
 
-Every ascetic discipline works by pushing past an early stopping point — fasting
-past hunger, vigil past sleep. This week does the same to scrolling, and asks
-for a control alongside the discipline so the comparison is real, not
-remembered:
+This tutorial tests, on yourself, the point where the urge to stop scrolling
+first shows up — and what happens if you deliberately keep going past it.
+Running a control alongside the real attempt is what makes the comparison
+worth trusting:
 
 1. Scroll normally until you hit your usual stopping signal — boredom, eye
    strain, restlessness — and log that session as the control.

@@ -25,11 +25,10 @@ recruitment attempt and the objection both happen here.
 
 ## In the tutorial
 
-Every doctrine this semester trained a private practice; missiology is the one
-about turning outward — recruiting a friend, a sibling, a parent into your
-feed, your creators, your slang. Skein runs the tutorial as a test of the
-outward turn directly, on the spot, rather than taking your word for an
-attempt made somewhere else:
+This tutorial has you actually attempt what the semester's last doctrine is
+about: recruiting someone, live, in the room, rather than describing how you
+would. Skein tests the real attempt directly, along with your proposed
+doctrine, before either goes into the portfolio:
 
 1. Pair up. Spend five minutes live-pitching your partner on one thing from
    your own feed — a creator, a genre, a piece of slang — trying to actually

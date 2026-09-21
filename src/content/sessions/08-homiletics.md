@@ -24,11 +24,10 @@ nothing prepared in advance.
 
 ## In the tutorial
 
-A sermon and a rage-bait post share a structure: an opening that claims your
-attention, a provocation built to produce a felt reaction before a reasoned
-one, and a close that reveals the whole thing was never about proof. Skein
-runs the workshop against that structure twice, not once, ahead of week 9's
-assessment:
+This tutorial has you write and rewrite a rage-bait post using the same
+three-part structure — hook, provocation, bait-and-switch — that makes one
+actually work. Skein runs the workshop on it twice, not once, ahead of week
+9's assessment:
 
 1. Draft a rage-bait post using the three-part structure.
 2. Rewrite it, deliberately changing one structural part — a sharper hook, a

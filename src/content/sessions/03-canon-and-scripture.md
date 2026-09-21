@@ -21,12 +21,11 @@ the room.
 
 ## In the tutorial
 
-Canon-formation isn't about truth; it's about survival — what gets screenshotted,
-cross-posted, and cited weeks later versus what scrolls past and is gone.
-Reddit threads and X posts get treated as scripture here for the same reason
-any scripture gets treated as scripture: a community kept referring back to
-them. Crane runs the practicum as a provenance drill, testing that against
-real candidates rather than a single easy pick:
+This tutorial is a live source-evaluation exercise: finding real posts and
+testing them against the criteria that separate something worth citing later
+from something that's just been seen and scrolled past. Crane runs it as a
+provenance check, using candidates you find on the spot rather than ones
+picked in advance:
 
 1. Open your feed, right now, and find three candidate posts on the spot —
    ones you'd each independently defend as important.

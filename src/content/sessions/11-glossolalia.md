@@ -21,10 +21,10 @@ Bring three sentences you say every day, in plain English.
 
 ## In the tutorial
 
-Speaking in tongues works as a marker of belonging precisely because it's
-unintelligible to anyone outside the community; Gen Alpha slang does the same
-job. Yarrow runs the translation drills both ways, three times over,
-so the failures are the data:
+This tutorial tests how much of current slang actually survives being
+translated to plain English and back — the real test of fluency. Yarrow runs
+the round trip three times over, so the places where meaning breaks down are
+the actual data:
 
 1. Translate three plain-English sentences into current slang.
 2. Translate each back into plain English without looking at the original.

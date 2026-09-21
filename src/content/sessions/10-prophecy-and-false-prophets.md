@@ -23,11 +23,10 @@ seen spread works, or find one live in your feed if nothing comes to mind.
 
 ## In the tutorial
 
-Every prophecy is a claim about a coming crisis or reveal, and what makes false
-prophecy spread faster isn't that it's more believable — it's that it's built
-for higher stakes and less patience than the true version can usually offer.
-Crane runs the practicum, tracing the whole lineage rather than just the
-endpoint:
+This tutorial has you trace one real piece of misinformation back to its
+original claim, mutation by mutation, and compare it against a true
+prediction from the same period. Crane runs it as a lineage-tracing exercise,
+not a single true/false check:
 
 1. Start from the version of the claim you first saw, and work backwards
    through at least two earlier, different-sounding versions to the original
