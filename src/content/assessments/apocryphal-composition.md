@@ -27,12 +27,11 @@ related:
 > Forge a text that reads as scripture. Then say, precisely, what makes it a
 > forgery.
 
-Apocryphal and pseudepigraphal texts were never rejected for bad writing —
-some are extraordinary. They were rejected for lacking provenance: attributed
-to an author who didn't write them, claiming a lineage they don't have. AI
-slop fails the same way, dressed in the same borrowed confidence. This
-assessment asks you to produce that failure on purpose, and then to diagnose
-it.
+Convincing AI slop fails the same way apocryphal texts always did: not on
+craft, but on provenance — no traceable author, no verifiable event, no
+lineage of re-citation to check it against. This assessment asks you to
+produce that failure on purpose, in a real content format, and then to
+diagnose exactly where the provenance breaks down.
 
 ## Part A — the composition
 
