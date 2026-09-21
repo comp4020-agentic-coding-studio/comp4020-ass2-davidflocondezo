@@ -19,6 +19,18 @@ what the agent needs to carry from either is your call.
 - When a check fails, read its output before you change anything.
 - Never commit a red state.
 
+## Content direction
+
+- The theology conceit is decoration, not the content. Confine it to titles,
+  doctrine names, and the odd framing quote — the body of a session, lecture,
+  or assessment teaches the real underlying skill (the actual mechanism,
+  research, or technique), not an extended metaphor about doctrine.
+- Every lecture carries a named applied section (a "how to ___" heading) that
+  gives concrete, actionable steps for that week's real skill, matching that
+  week's own topic — not a generic template repeated across weeks.
+- Before writing or reviewing any content page, check it against both rules
+  above. If the metaphor is doing more work than the substance, rewrite it.
+
 ## Carried from earlier prototypes
 
 - Asset paths (images, posters, etc.) must be built through
