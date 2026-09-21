@@ -17,6 +17,8 @@ marking:
       weight: 25
 spec:
   - submitted by the deadline, as a post plus a written argument
+  - the post can be any medium — text, image, meme, mock news report, or
+    otherwise — provided it is built as rage-bait
   - the post follows the hook, provocation, bait-and-switch structure from week 8
   - the argument identifies a specific, repeatable icon the post could be known by
 related:
@@ -36,6 +38,8 @@ practicum through to its canonization case.
 
 Refine the rage-bait post from week 8 into a finished draft, following the
 hook / provocation / bait-and-switch structure covered in that week's tutorial.
+The medium is your call — a text post, an image, a meme, a mock news
+report, whatever else — the only requirement is that it's built as rage-bait.
 
 ## Part B — the canonization argument
 
