@@ -22,7 +22,10 @@ export default defineConfig({
       defaultLayout: "src/layouts/PageLayout.astro",
       // The whole brand choice: three colour tokens and a set of lockups. Keep
       // institutional brand packages and assets out of this fictional site.
-      brandCss: "astro-theme-slop/slop.css",
+      // The second file re-themes the three colour tokens to a stained-glass
+      // blue/purple palette, layered after slop.css so the crest/logo assets
+      // it also carries are untouched --- see src/styles/site-palette.css.
+      brandCss: ["astro-theme-slop/slop.css", "/src/styles/site-palette.css"],
       imageFormat: "avif",
       llmsTxt: true,
       // The theme owns the markdown plugin chain, so astromotion's slide

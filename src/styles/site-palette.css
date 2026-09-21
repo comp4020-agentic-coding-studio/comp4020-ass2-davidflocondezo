@@ -1,0 +1,18 @@
+/* Stained-glass palette override for Slop University.
+ *
+ * Imported after astro-theme-slop/slop.css (see astro.config.ts's brandCss
+ * array), so it wins on the same three tokens without touching the base
+ * theme or the crest/logo assets slop.css also carries. Every other token
+ * (backgrounds, links, borders, table headers) derives from these via the
+ * theme's own relative-colour syntax in tokens.css, so overriding just the
+ * three is enough for the whole site to re-theme.
+ *
+ * Chosen to sit at roughly the same light/dark contrast profile as the
+ * theme's own shipped default primary (#0f766e: 5.47:1 on white, 3.84:1 on
+ * black) rather than an arbitrary jewel tone, since --at-heading and
+ * --at-accent use the raw value unmodified in both colour schemes. */
+:root {
+  --at-primary: #4a5fcf; /* cathedral blue */
+  --at-secondary: #7a3fb0; /* amethyst */
+  --at-tertiary: #4b2e6b; /* deep plum */
+}
