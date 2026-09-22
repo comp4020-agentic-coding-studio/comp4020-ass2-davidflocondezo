@@ -8,7 +8,7 @@ a systematic theology degree, but although its theological it takes itself serio
 ## How I got here
 
 The course concept came from thinking about something that wouldn't take itself seriously but could be relatable to current social media trends.
-So i had an initial thought about doing a course that teaches 'brain-rot'. Then with the agent I came up with the doctrines, trained outcomes, an assessment structure. Unfortunately my laptop died then so i had to try and recover the session later on. I queried the agent and it was able to recover most of it, including a capstone I'd asked it to soften after flagging "recruit a real person" as a literal instruction. I then made two calls: a lecture for all twelve weeks, not a subset, and more than the brief's minimum deck count — the first pass
+So i had an initial thought about doing a course that teaches 'brain-rot'. Then with the agent I came up with the doctrines, trained outcomes, an assessment structure. Unfortunately my laptop died then so i had to try and recover the session later on. I then made two calls: a lecture for all twelve weeks, not a subset, and more than the brief's minimum deck count — the first pass
 ([`e9a6058...1401db2`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-davidflocondezo/compare/e9a6058...1401db2))
 
 Everything after came from reading the shipped site and finding gaps.
