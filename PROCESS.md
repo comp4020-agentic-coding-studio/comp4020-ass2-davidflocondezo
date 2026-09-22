@@ -15,7 +15,7 @@ Everything after came from reading the shipped site and finding gaps.
 For example, Week 1 read thin next to its weight as the first impression, so I expanded it with real content and a better slide
 ([`c679ca2`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-davidflocondezo/commit/c679ca2),
 [`47f51d6`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-davidflocondezo/commit/47f51d6)).
-And tutorial activities were rewritten twice. First I imagined it as like a session where students could bring in their workings from outside of a tutorial and it would be reviewed. But afterwards I decided to change it to activities with graded work that can be completed in the room because it allows students to engage with the course content and actually build towards their final assignment too.
+Tutorial activities were rewritten twice. First I imagined it as like a session where students could bring in their workings from outside of a tutorial and it would be reviewed. But afterwards I decided to change it to activities with graded work that can be completed in the room because it allows students to engage with the course content and actually build towards their final assignment too.
 ([`eb9cc33`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-davidflocondezo/commit/eb9cc33),
 [`ba23fda`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-davidflocondezo/commit/ba23fda)).
 
@@ -31,7 +31,6 @@ itself often enough to be worth locking in: the theology conceit stays
 confined to titles, doctrine names, and framing quotes, with the body
 teaching the real conetnt of how to brainrot.
 ([`d86905b`](https://github.com/comp4020-agentic-coding-studio/comp4020-ass2-davidflocondezo/commit/d86905b)).
-Nothing else is locked in that early.
 
 `spec/course-spec.test.ts` likewise only checks the brief's own
 numeric promises — weights summing to 100, weeks 1–12 covered once each,
