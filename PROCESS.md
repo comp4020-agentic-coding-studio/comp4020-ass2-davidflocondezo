@@ -3,10 +3,7 @@
 ## What I built
 
 **The Theology of Brain Rot** (`SLOP8038`) frames online brain-rot culture as
-a systematic theology degree, but although its theological it takes itself seriously and teaches essentially "how to brainrot". Each week reframes a real habit: doomscrolling, AI slop, rage-baiting, misinformation — as a "doctrine" taught mostly through its realmechanism (ranking-algorithm signals, dark-pattern UI, misinformation research, network effects), plus a concrete "how to ___" section, building from consuming (weeks 1–3) to producing (4–9) to recruiting (10–12). Every week carries a real slide deck, and three major assessments are graded as follows (21/31/36%) with the remaining being attributed to the tutorials.
-The assignments track a forged-scripture composition, a canonization argument, and a
-capstone portfolio closing with a reflection proposing a new doctrine of the
-student's own. 
+a systematic theology degree, but although its theological it takes itself seriously and teaches essentially "how to brainrot". Each week reframes a real habit: doomscrolling, AI slop, rage-baiting, misinformation, plus a concrete "how to ___" section, building from consuming (weeks 1–3) to producing (4–9) to recruiting (10–12). Every week carries a real slide deck, and three major assessments are graded as follows (21/31/36%) with the remaining being attributed to the tutorials.
 
 ## How I got here
 
